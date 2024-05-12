@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="notesHeading" type="id" />
+    <item name="notesRecyclerView" type="id" />
+    <item name="addBtn" type="id" />
+</resources>
