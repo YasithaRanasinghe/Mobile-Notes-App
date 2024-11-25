@@ -16,7 +16,7 @@
         android:layout_marginStart="18dp"
         android:layout_marginTop="52dp"
         android:fontFamily="@font/alata"
-        android:text="Notes..."
+        android:text="Notes"
         android:textColor="@color/white"
         android:textSize="36sp" />
 

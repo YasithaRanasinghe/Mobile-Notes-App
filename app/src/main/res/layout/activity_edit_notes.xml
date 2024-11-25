@@ -47,8 +47,8 @@
 
     <EditText
         android:id="@+id/editContentEditText"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="391dp"
+        android:layout_height="468dp"
         android:layout_below="@id/editTitleEditText"
         android:layout_marginTop="12dp"
         android:background="@drawable/blue_border"

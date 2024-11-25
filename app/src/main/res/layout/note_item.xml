@@ -48,7 +48,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
-            android:fontFamily="@font/chilanka"
+            android:fontFamily="@font/poppins"
             android:maxLines="3"
             android:text="Content"
             android:textColor="#030933" />
